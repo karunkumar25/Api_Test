@@ -1,1 +1,118 @@
-{"error":false,"message":"Success, Response Successfull","data":{"0":{"id":21,"qid":"QES68455","question_name":"room","question_explaination":"kak","question_tag":"MANAGMENT","question_view_count":"1","question_answer_count":"0","question_time":"2017-04-13"},"replies":{"answers":[{"id":16,"qid":"QES68455","answer_owner":"ans test","answer_text":"name"}]}}}
+{
+  "status": true,
+  "code": 200,
+  "message": "success",
+  "devep": "karun kumar",
+  "mobile": "9599834735",
+  "data": [
+    {
+      "topic_id": "0",
+      "topic_name": "Basics of Java",
+      "topic_point": [
+        {
+          "top_id": "t1",
+          "top_name": "Java - What, Where and Why?"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "History and Features of Java "
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Internals of Java Program"
+        },
+        {
+          "top_id": "t4",
+          "top_name": "Difference between JDK,JRE and JVM "
+        }
+      ]
+    },
+    {
+      "topic_id": "1",
+      "topic_name": "OOPS Conecpts",
+      "topic_point": [
+        {
+          "top_id": "t1",
+          "top_name": "Advantage of OOPs"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "Object and Class"
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Method Overloading"
+        },
+        {
+          "top_id": "t4",
+          "top_name": "static variable, method and block"
+        }
+      ]
+    },
+    {
+      "topic_id": "2",
+      "topic_name": "String Handling",
+      "topic_point": [
+        {
+          "top_id": "t1",
+          "top_name": "String : What and Why?"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "Immutable String "
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Creating Immutable class"
+        },
+        {
+          "top_id": "t4",
+          "top_name": "StringTokenizer class"
+        }
+      ]
+    },
+    {
+      "topic_id": "3",
+      "topic_name": "Exception Handling",
+      "topic_point": [
+        {
+          "top_id": "t1",
+          "top_name": "Exception Handling : What and Why?"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "try and catch block "
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Exception Handling with Method "
+        },
+        {
+          "top_id": "t4",
+          "top_name": "Custom Exception "
+        }
+      ]
+    },{
+      "topic_id": "4",
+      "topic_name": "Collection",
+      "topic_point": [
+        {
+          "top_id": "t1",
+          "top_name": "Collection Framework"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "ListIterator interface"
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Comparable and Comparator "
+        },
+        {
+          "top_id": "t4",
+          "top_name": "HashMap class"
+        }
+      ]
+    }
+  ]
+}
