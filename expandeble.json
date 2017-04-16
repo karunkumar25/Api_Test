@@ -1,0 +1,38 @@
+{
+"category": [
+        {
+            "id": 6,
+            "name": "Vegetarian",
+            "parentid": "1",
+            "childs": [
+                {
+                    "id": "6A",
+                    "name": "Vegetarian new",
+                    "parentid": "6"
+                },
+                {
+                    "id": "6B",
+                    "name": "Vagetarian old",
+                    "parentid": "6"
+                }
+            ]
+        },
+    {
+        "id": 7,
+            "name": "Non-Vegetarian",
+            "parentid": "1",
+            "childs": [
+                {
+                    "id": "7A",
+                    "name": "Non-Vegetarian new",
+                    "parentid": "7"
+                },
+                {
+                    "id": "7B",
+                    "name": "Non-Vagetarian old",
+                    "parentid": "7"
+                }
+            ]
+    }   
+   ]
+}
