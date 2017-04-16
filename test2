@@ -1,0 +1,92 @@
+{
+"Basics of Java": [
+        {
+          "top_id": "t1",
+          "top_name": "Java - What, Where and Why?"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "History and Features of Java "
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Internals of Java Program"
+        },
+        {
+          "top_id": "t4",
+          "top_name": "Difference between JDK,JRE and JVM "
+        }
+      ],
+      "OOPS Conecpts": [
+        {
+          "top_id": "t1",
+          "top_name": "Advantage of OOPs"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "Object and Class"
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Method Overloading"
+        },
+        {
+          "top_id": "t4",
+          "top_name": "static variable, method and block"
+        }
+      ],
+      "String Handling": [
+        {
+          "top_id": "t1",
+          "top_name": "String : What and Why?"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "Immutable String "
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Creating Immutable class"
+        },
+        {
+          "top_id": "t4",
+          "top_name": "StringTokenizer class"
+        }
+      ],
+      "Exception Handling": [
+        {
+          "top_id": "t1",
+          "top_name": "Exception Handling : What and Why?"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "try and catch block "
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Exception Handling with Method "
+        },
+        {
+          "top_id": "t4",
+          "top_name": "Custom Exception "
+        }
+      ],
+      "Collection": [
+        {
+          "top_id": "t1",
+          "top_name": "Collection Framework"
+        },
+        {
+          "top_id": "t2",
+          "top_name": "ListIterator interface"
+        },
+         {
+          "top_id": "t3",
+          "top_name": "Comparable and Comparator "
+        },
+        {
+          "top_id": "t4",
+          "top_name": "HashMap class"
+        }
+  ]
+}
