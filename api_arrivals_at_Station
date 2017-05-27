@@ -1,27 +1,4 @@
 {
-    "response_code": 200,
-    "station": "CDG",
-    "total": 2,
-    "train": [
-        {
-            "scharr": "05:10",
-            "delayarr": "RT",
-            "schdep": "05:20",
-            "name": "BARMER KLK EXP",
-            "actdep": "05:20",
-            "delaydep": "RT",
-            "actarr": "05:10",
-            "number": "14888"
-        },
-        {
-            "scharr": "04:55",
-            "delayarr": "RT",
-            "schdep": "DSTN",
-            "name": "JP-CDG INTERCITY EXP",
-            "actdep": "DSTN",
-            "delaydep": "RT",
-            "actarr": "04:55",
-            "number": "19717"
-        }
-    ]
+  "error": "Quota exhausted for day", 
+  "response_code": 403
 }
