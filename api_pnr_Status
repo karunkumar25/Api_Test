@@ -1,0 +1,47 @@
+{
+    "response_code": 200,
+    "error": false,
+    "train_name": "KCG YPR EXP",
+    "train_num": "17603",
+    "pnr": "1234567890",
+    "failure_rate": 19.346153846153847,
+    "doj": "20-8-2015",
+    "chart_prepared": "Y",
+    "class": "SL",
+    "total_passengers": 2,
+    "train_start_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20
+    },
+    "from_station": {
+        "code": "KCG",
+        "name": "KACHEGUDA"
+    },
+    "boarding_point": {
+        "code": "KCG",
+        "name": "KACHEGUDA"
+    },
+    "to_station": {
+        "code": "YPR",
+        "name": "YESVANTPUR JN"
+    },
+    "reservation_upto": {
+        "code": "YPR",
+        "name": "YESVANTPUR JN"
+    },
+    "passengers": [
+        {
+            "no": 1,
+            "booking_status": "S7,58,GN",
+            "current_status": "S7,58",
+            "coach_position": 9
+        },
+        {
+            "no": 2,
+            "booking_status": "S7,59,GN",
+            "current_status": "S7,59",
+            "coach_position": 9
+        }
+    ]
+}
