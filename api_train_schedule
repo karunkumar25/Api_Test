@@ -1,0 +1,283 @@
+{
+    "response_code": 200,
+    "train": {
+        "classes": [
+            {
+                "available": "Y",
+                "class-code": "2A"
+            },
+            {
+                "available": "N",
+                "class-code": "CC"
+            },
+            {
+                "available": "Y",
+                "class-code": "3A"
+            },
+            {
+                "available": "N",
+                "class-code": "2S"
+            },
+            {
+                "available": "N",
+                "class-code": "1A"
+            },
+            {
+                "available": "Y",
+                "class-code": "SL"
+            },
+            {
+                "available": "N",
+                "class-code": "3E"
+            },
+            {
+                "available": "N",
+                "class-code": "FC"
+            }
+        ],
+        "days": [
+            {
+                "runs": "Y",
+                "day-code": "SUN"
+            },
+            {
+                "runs": "Y",
+                "day-code": "MON"
+            },
+            {
+                "runs": "Y",
+                "day-code": "TUE"
+            },
+            {
+                "runs": "Y",
+                "day-code": "WED"
+            },
+            {
+                "runs": "Y",
+                "day-code": "THU"
+            },
+            {
+                "runs": "Y",
+                "day-code": "FRI"
+            },
+            {
+                "runs": "Y",
+                "day-code": "SAT"
+            }
+        ],
+        "name": "MAHABODHI EXP",
+        "number": "12397"
+    },
+    "route": [
+        {
+            "lng": 84.9997072,
+            "schdep": "14:20",
+            "distance": 0,
+            "scharr": "Source",
+            "no": 1,
+            "route": 1,
+            "lat": 24.8032413,
+            "halt": 0,
+            "fullname": "GAYA JN",
+            "day": 1,
+            "code": "GAYA",
+            "state": "Bihar 823002"
+        },
+        {
+            "lng": 84.7908095,
+            "schdep": "14:41",
+            "distance": 22,
+            "scharr": "14:40",
+            "no": 2,
+            "route": 1,
+            "lat": 24.8088572,
+            "halt": 1,
+            "fullname": "GURARU",
+            "day": 1,
+            "code": "GRRU",
+            "state": "Bihar 824118"
+        },
+        {
+            "lng": 84.6346361,
+            "schdep": "14:55",
+            "distance": 38,
+            "scharr": "14:54",
+            "no": 3,
+            "route": 1,
+            "lat": 24.8195159,
+            "halt": 1,
+            "fullname": "RAFIGANJ",
+            "day": 1,
+            "code": "RFJ",
+            "state": "Bihar 824125"
+        },
+        {
+            "lng": 72.84798599999999,
+            "schdep": "15:19",
+            "distance": 69,
+            "scharr": "15:18",
+            "no": 4,
+            "route": 1,
+            "lat": 19.054587,
+            "halt": 1,
+            "fullname": "ANUGRAHA N ROAD",
+            "day": 1,
+            "code": "AUBR",
+            "state": "Maharashtra 400051"
+        },
+        {
+            "lng": 84.1855467,
+            "schdep": "15:36",
+            "distance": 86,
+            "scharr": "15:34",
+            "no": 5,
+            "route": 1,
+            "lat": 24.9151459,
+            "halt": 2,
+            "fullname": "DEHRI ON SONE",
+            "day": 1,
+            "code": "DOS",
+            "state": "Bihar 821307"
+        },
+        {
+            "lng": 84.01856,
+            "schdep": "15:51",
+            "distance": 103,
+            "scharr": "15:50",
+            "no": 6,
+            "route": 1,
+            "lat": 24.9562073,
+            "halt": 1,
+            "fullname": "SASARAM",
+            "day": 1,
+            "code": "SSM",
+            "state": "Bihar 821115"
+        },
+        {
+            "lng": 83.7924149,
+            "schdep": "16:12",
+            "distance": 129,
+            "scharr": "16:11",
+            "no": 7,
+            "route": 1,
+            "lat": 25.0492728,
+            "halt": 1,
+            "fullname": "KUDRA",
+            "day": 1,
+            "code": "KTQ",
+            "state": "Bihar 821101"
+        },
+        {
+            "lng": 83.61933669999999,
+            "schdep": "16:30",
+            "distance": 151,
+            "scharr": "16:29",
+            "no": 8,
+            "route": 1,
+            "lat": 25.1730562,
+            "halt": 1,
+            "fullname": "BHABUA ROAD",
+            "day": 1,
+            "code": "BBU",
+            "state": "Bihar 821109"
+        },
+        {
+            "lng": 83.2679129,
+            "schdep": "16:59",
+            "distance": 188,
+            "scharr": "16:58",
+            "no": 9,
+            "route": 1,
+            "lat": 25.2612938,
+            "halt": 1,
+            "fullname": "CHANDAULI MJHWR",
+            "day": 1,
+            "code": "CDMR",
+            "state": "Uttar Pradesh 232104"
+        },
+        {
+            "lng": 83.1197011,
+            "schdep": "17:47",
+            "distance": 204,
+            "scharr": "17:37",
+            "no": 10,
+            "route": 1,
+            "lat": 25.2783436,
+            "halt": 10,
+            "fullname": "MUGHAL SARAI JN",
+            "day": 1,
+            "code": "MGS",
+            "state": "Uttar Pradesh 232101"
+        },
+        {
+            "lng": 82.5020273,
+            "schdep": "18:48",
+            "distance": 274,
+            "scharr": "18:47",
+            "no": 11,
+            "route": 1,
+            "lat": 25.1607415,
+            "halt": 1,
+            "fullname": "VINDHYACHAL",
+            "day": 1,
+            "code": "BDL",
+            "state": "Uttar Pradesh 231307"
+        },
+        {
+            "lng": 81.82595529999999,
+            "schdep": "20:10",
+            "distance": 356,
+            "scharr": "20:00",
+            "no": 12,
+            "route": 1,
+            "lat": 25.4455992,
+            "halt": 10,
+            "fullname": "ALLAHABAD JN",
+            "day": 1,
+            "code": "ALD",
+            "state": "Uttar Pradesh 211001"
+        },
+        {
+            "lng": 78.24845739999999,
+            "schdep": "22:45",
+            "distance": 550,
+            "scharr": "22:40",
+            "no": 13,
+            "route": 1,
+            "lat": 28.8365997,
+            "halt": 5,
+            "fullname": "KANPUR CENTRAL",
+            "day": 1,
+            "code": "CNB",
+            "state": "Uttar Pradesh 244235"
+        },
+        {
+            "lng": 78.0880129,
+            "schdep": "02:24",
+            "distance": 858,
+            "scharr": "02:22",
+            "no": 14,
+            "route": 1,
+            "lat": 27.8973944,
+            "halt": 2,
+            "fullname": "ALIGARH JN",
+            "day": 2,
+            "code": "ALJN",
+            "state": "Uttar Pradesh 202001"
+        },
+        {
+            "lng": 77.22081229999999,
+            "schdep": "Destination",
+            "distance": 989,
+            "scharr": "05:00",
+            "no": 15,
+            "route": 1,
+            "lat": 28.6415494,
+            "halt": 0,
+            "fullname": "NEW DELHI",
+            "day": 2,
+            "code": "NDLS",
+            "state": "Delhi 110006"
+        }
+    ]
+}
