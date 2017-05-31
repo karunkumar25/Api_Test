@@ -1,0 +1,22 @@
+{
+    {
+      "emp_id": "134",
+      "emp_name": "Ramesh Singh",
+      "emp_contect": [
+        {
+          "home": "943410921",
+          "office": "75455556"
+          "other": "989965656"
+        }]},
+        {
+      "emp_id": "144",
+      "emp_name": "Karun Singh",
+      "emp_contect": [
+        {
+          "home": "8680921",
+          "office": "024555686"
+          "other": "785965656"
+        }]
+        }
+ }
+     
