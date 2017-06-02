@@ -1,0 +1,76 @@
+{  
+   "android":[  
+      {  
+         "id":"1",
+         "ver":"1.5",
+         "name":"Cupcake",
+         "api":"API level 3"
+      },
+      {  
+      "id":"2",
+         "ver":"1.6",
+         "name":"Donut",
+         "api":"API level 4"
+      },
+      {  
+      "id":"3",
+         "ver":"2.0 - 2.1",
+         "name":"Eclair",
+         "api":"API level 5 - 7"
+      },
+      {  
+      "id":"4",
+         "ver":"2.2",
+         "name":"Froyo",
+         "api":"API level 8"
+      },
+      {  
+      "id":"5",
+         "ver":"2.3",
+         "name":"Gingerbread",
+         "api":"API level 9 - 10"
+      },
+      {  
+      "id":"6",
+         "ver":"3.0 - 3.2",
+         "name":"Honeycomb",
+         "api":"API level 11 - 13"
+      },
+      {  
+      "id":"7",
+         "ver":"4.0",
+         "name":"Ice Cream Sandwich",
+         "api":"API level 14 - 15"
+      },
+      {  
+      "id":"8",
+         "ver":"4.1 - 4.3",
+         "name":"JellyBean",
+         "api":"API level 16 - 18"
+      },
+      {  
+      "id":"9",
+         "ver":"4.4",
+         "name":"KitKat",
+         "api":"API level 19"
+      },
+      {  
+      "id":"10",
+         "ver":"5.0 - 5.1",
+         "name":"Lollipop",
+         "api":"API level 21 - 22"
+      },
+      {  
+      "id":"11",
+         "ver":"6.0",
+         "name":"Marshmallow",
+         "api":"API level 23"
+      },
+      {  
+      "id":"12",
+         "ver":"7.0 - 7.1",
+         "name":"Nougat",
+         "api":"API level 24 - 25"
+      }
+   ]
+}
