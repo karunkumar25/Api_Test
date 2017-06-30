@@ -1,5 +1,5 @@
 {
- "Pool A": [
+ "Pool_A": [
     {
       "name": "India",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
@@ -13,7 +13,7 @@
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
     }
   ],
-  "Pool B": [
+  "Pool_B": [
     {
       "name": "USA",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
