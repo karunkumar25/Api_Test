@@ -1,14 +1,14 @@
 {
- "Pool_A": [
+  "Pool_A": [
     {
       "name": "India",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
     },
-     {
+    {
       "name": "Nepal",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Nepal_Flag_Incorrect.png/220px-Nepal_Flag_Incorrect.png"
     },
-     {
+    {
       "name": "Bangladesh",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
     }
@@ -18,11 +18,67 @@
       "name": "USA",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
     },
-     {
+    {
       "name": "UK",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
     },
-     {
+    {
+      "name": "NK",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    }
+  ],
+  "Pool_C": [
+    {
+      "name": "USA",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "UK",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "NK",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    }
+  ],
+  "Pool_D": [
+    {
+      "name": "USA",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "UK",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "NK",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    }
+  ],
+  "Pool_E": [
+    {
+      "name": "USA",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "UK",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "NK",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    }
+  ],
+  "Pool_F": [
+    {
+      "name": "USA",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    },
+    {
+      "name": "UK",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
+    },
+    {
       "name": "NK",
       "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png"
     }
